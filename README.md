@@ -7,15 +7,9 @@ A Python-based IT Help Desk ticket management system that allows users to create
 - Powershell
 - Javascript
 
-# Enviornments Used
+- # Enviornments, Technology, Applications, and Services Used
+- Python 3.9.6
 - MacOS
-- Python 3.9.6
-- Visual Studio Code
-- Git 2.39.5
-- GitHub
-- Terminal
-- # Technology, Applications, and Services Used
-- Python 3.9.6
 - Git 2.39.5
 - GitHub
 - Visual Studio Code
