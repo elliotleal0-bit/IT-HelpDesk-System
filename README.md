@@ -21,4 +21,6 @@ This demonstration outlines logging on to osTicket through Azure and a Virtual M
 - Open up a browser and use the following link to get to the osTicket login page http://localhost/osTicket/scp/login.php
 <img width="955" height="637" alt="image" src="https://github.com/user-attachments/assets/c4096c4f-5363-4065-a071-11ccfb36054f" />
 # Creating a Ticket
-- After logging on
+- Before creating a ticket you will want to make sure you have all the information you need to create a ticket. Did the ticket come in through text, call or email. What is the issue, when did it start, how long has it been going on. After gathering all this information we are able to identify which department will be needed, what is the priority, characterized as High, Normal and Low. SLA for resolve on High priority  is 8 hours, Normal 24 hours, Low 3 days, and some other cases, Emergency which is 1 hour.
+<img width="992" height="394" alt="image" src="https://github.com/user-attachments/assets/5b4f901f-c491-40bd-8169-5f9c7349f53d" />
+
