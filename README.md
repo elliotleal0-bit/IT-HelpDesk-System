@@ -26,5 +26,11 @@ This demonstration outlines logging on to osTicket through Azure and a Virtual M
 As you enter the New ticket screen you will want to fill out all your information. Ticket Source, Help Topic, Department, SLA plan if there are any available. In this case, only option available is Default SLA, 18 hours. Due date, who to assign to, issue summary, giving any additional details you can give on the customers issue. When that all is completed you can go ahead and create your ticket.
 <img width="1012" height="735" alt="image" src="https://github.com/user-attachments/assets/e1779ba7-b699-4e97-8c4a-3612ea5d4b72" />
 <img width="1060" height="781" alt="image" src="https://github.com/user-attachments/assets/7767e4bd-f963-49ff-aeaa-4ba2adbfe7ce" />
+
 # Working on the issue
-- In this case, I assigned the ticket to myself. As i gathered more information from the customer, he stated that his password had expired. I was able to get into Active Directory, verify the user's identity, find the user's account in AD, click the user and reset their password. 
+
+- In this case, I assigned the ticket to myself. As i gathered more information from the customer, he stated that his password had expired. I was able to get into Active Directory, verify the user's identity, find the user's account in AD, click the user and reset their password.
+# Resolution
+- I put my notes on the ticket, where you can see the previous note when the ticket was created. I stated that the issue was identified and resolved. You are either able to change the status when submitting your new note or by clicking on the status button and changing it to either resolved or closed.
+- <img width="1061" height="820" alt="image" src="https://github.com/user-attachments/assets/d6dfde92-93b9-4c47-bd09-188c7f8dbf3d" />
+
