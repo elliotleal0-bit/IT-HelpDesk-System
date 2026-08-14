@@ -25,4 +25,6 @@ This demonstration outlines logging on to osTicket through Azure and a Virtual M
 <img width="992" height="394" alt="image" src="https://github.com/user-attachments/assets/5b4f901f-c491-40bd-8169-5f9c7349f53d" />
 As you enter the New ticket screen you will want to fill out all your information. Ticket Source, Help Topic, Department, SLA plan if there are any available. In this case, only option available is Default SLA, 18 hours. Due date, who to assign to, issue summary, giving any additional details you can give on the customers issue. When that all is completed you can go ahead and create your ticket.
 <img width="1012" height="735" alt="image" src="https://github.com/user-attachments/assets/e1779ba7-b699-4e97-8c4a-3612ea5d4b72" />
-
+<img width="1060" height="781" alt="image" src="https://github.com/user-attachments/assets/7767e4bd-f963-49ff-aeaa-4ba2adbfe7ce" />
+# Working on the issue
+- In this case, I assigned the ticket to myself. As i gathered more information from the customer, he stated that his password had expired. I was able to get into Active Directory, verify the user's identity, find the user's account in AD, click the user and reset their password. 
