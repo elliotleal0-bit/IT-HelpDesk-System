@@ -1,4 +1,4 @@
-# IT- osTicket Creating a ticket until resolution
+# IT- Help Desk Ticket Lifecycle Demonstration
 # Description
 This demonstration outlines logging on to osTicket through Azure and a Virtual Machine, creating a ticket and completing until resolution
 # Enviornments and Technologies Used
